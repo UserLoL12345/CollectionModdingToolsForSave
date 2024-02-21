@@ -1,7 +1,7 @@
 # CollectionModdingToolsForSave
 Just Collection Apps, my phone is full Memory
 
-+ [NpManager-3.68](https://www.mediafire.com/file/z4zm0pe0bcv498w/NP_Manager_3.0.63.apk/file)
++ [NpManager-3.63](https://www.mediafire.com/file/z4zm0pe0bcv498w/NP_Manager_3.0.63.apk/file)
 
 + [ApktoolM](https://www.mediafire.com/file/4hw8e4prh54hh3u/Apktool_M_v2.4.0-240126%25282024012602%2529.apk/file)
 
