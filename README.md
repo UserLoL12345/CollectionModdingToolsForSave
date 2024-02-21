@@ -1,2 +1,2 @@
 # CollectionModdingToolsForSave
-Just Collection Apps
+Just Collection Apps, my phone is full Memory
